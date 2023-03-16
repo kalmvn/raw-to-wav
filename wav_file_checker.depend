@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1676517502 source:c:\users\kal\downloads\tflite_rec\wav_file_checker\main.cpp
+	<iostream>
+	"AudioFile.h"
+	<fstream>
+	<stdio.h>
+	<string.h>
+
+1676515471 c:\users\kal\downloads\tflite_rec\wav_file_checker\audiofile.h
+	<iostream>
+	<vector>
+	<cassert>
+	<string>
+	<cstring>
+	<fstream>
+	<unordered_map>
+	<iterator>
+	<algorithm>
+	<limits>
+
